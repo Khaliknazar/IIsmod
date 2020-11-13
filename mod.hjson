@@ -1,0 +1,6 @@
+name: "IIsmod"
+displayName: "[green]IIsmod" //what displays in the mod selection menu
+author: "Inoyatullo"
+description: "This mod add new map in Company"
+version: "3.2"
+minGameVersion: "103"
