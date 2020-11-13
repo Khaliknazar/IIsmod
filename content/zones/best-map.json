@@ -1,0 +1,33 @@
+{
+	"name": "Best Map",
+	"description": "All the resources you need are here. By Ismatullo.",
+	"loadout": "basicFoundation",
+	    	
+	"baseLaunchCost": [
+    	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 300},
+    	{"item": "graphite", "amount": 100},
+    ],
+	"launchCost": [	
+	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 500},
+    	{"item": "graphite", "amount": 500},
+        ],
+    "startingItems": [	       
+	{"item": "copper", "amount": 500},
+    	{"item": "lead", "amount": 300},
+    	{"item": "graphite", "amount": 100},
+    	
+    ],
+     "conditionWave": 15,
+    "launchPeriod": 5,
+    "requirements": [
+     	{
+    	  "type": "zoneWave",
+        "zone": "tarFields",
+        "wave": 40,
+        },
+            	
+    ],
+    "resources": ["copper", "lead", "coal", "sand", "titanium","thorium", "scrap"]
+}
