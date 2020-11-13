@@ -24,4 +24,4 @@ category: crafting
 research: multi-press
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: steel/1
+outputItem: copper/1
