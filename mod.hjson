@@ -4,3 +4,6 @@ author: "Inoyatullo"
 description: "This mod add new map in Company"
 version: "1.0"
 minGameVersion: "103"
+dependencies: [
+  Anuken/ExampleMod
+]
