@@ -4,7 +4,7 @@ loadout: basicFoundation
 startingItems: [
   copper/500
   lead/300
-  graphit/200
+  graphite/200
 ]
 conditionWave: 15
 launchPeriod: 5
