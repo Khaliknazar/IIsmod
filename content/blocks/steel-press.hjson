@@ -6,7 +6,7 @@ hasPower: true
 hasLiquids: false
 hasItems: true
 craftTime: 50
-updateEffect: smoke
+updateEffect: plasticburn
 consumes: {
   power: 0.7
   items: {
