@@ -25,7 +25,7 @@ requirements: [
 ]
 resources: [
   copper
-  silver
+  Anuken-ExampleMod-silver
   lead
   coal
   sand
