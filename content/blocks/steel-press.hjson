@@ -18,10 +18,11 @@ consumes: {
 }
 requirements: [
   copper/50
-  thorium/30
+  lead/20
+  titanium/30
 ]
 category: crafting
 research: multi-press
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: copper/1
+outputItem: steel/1
