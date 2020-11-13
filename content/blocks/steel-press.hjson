@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Steel Press
+description: Combines scrap and coal to produce steel.
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 50
+updateEffect: smoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      scrap/1
+      coal/1
+    ]
+  }
+}
+requirements: [
+  copper/50
+  thorium/30
+]
+category: crafting
+research: multi-press
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: steel/1
