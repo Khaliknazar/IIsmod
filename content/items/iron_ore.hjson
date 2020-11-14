@@ -1,6 +1,6 @@
 type: resource
 name: Iron Ore
-description: An important resource for building.
+description: Smelt it to make iron ingot.
 cost: 1
 hardness: 1.5
 color: 9e9e9e
