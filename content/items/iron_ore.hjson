@@ -1,6 +1,5 @@
 type: material
-name: Iron
+name: Iron Ore
 description: An important resource for building.
-hardness: 2
 cost: 1
 color: 9e9e9e
