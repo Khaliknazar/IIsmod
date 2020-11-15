@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 name: Steel Press
 description: Combines scrap and coal to produce steel.
 size: 2
@@ -6,7 +6,6 @@ hasPower: true
 hasLiquids: false
 hasItems: true
 craftTime: 50
-updateEffect: plasticburn
 consumes: {
   power: 0.7
   items: {
